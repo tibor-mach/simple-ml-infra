@@ -1,0 +1,10 @@
+# Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+
+# VS Code settings
+.vscode
+
+# environment variables
+.env
